@@ -1,3 +1,4 @@
+**TO RUN PROGRAM PUT break_time.py, Times.db, stopwatch.py, time_sheet_2016.txt, tracker.py and README.txt into a file. 
 break_time allows you to track how long you have worked on projects. You will find the following commands essential.
 
 Commands
