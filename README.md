@@ -15,7 +15,3 @@ To adjust the lenght of pomodoro's or how many it takes to trigger a break, chan
 
 you have the option to result the days results of time tracking to a file. by default the file is 'time_sheet_2016'. To change this, change the global variable FILE_PATH inside
 break_time.py
-
-
-
-
